@@ -19,7 +19,7 @@ Developed a model that predicts bike-sharing demand with an R-squared accuracy o
 Python
 Jupyter Notebook
 
-Contact Information
+## Contact Information
 This project was created by Gladwin. 
 For inquiries or further information, feel free to reach out!
 
